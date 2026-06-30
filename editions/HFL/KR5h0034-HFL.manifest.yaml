@@ -1,0 +1,53 @@
+canonical_identifier: bkk:krp/KR5h0034/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5h0034/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 消搖墟經
+  date: '2015-08-29 03:04:27.963844'
+  source:
+    repository: kanripo
+    path: KR5h0034
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0034_000-HFL.yaml, hash: 'sha256:a6c972e5448b5548871289138e6b63ea4eb90a1015006805786e4042a49eb361'}
+  - {seq: 1, filename: KR5h0034_001-HFL.yaml, hash: 'sha256:214a3a19f27a6c2751be00b3f99792e0c0c5cde25037fba18be9f8b1cc12c13b'}
+  - {seq: 2, filename: KR5h0034_002-HFL.yaml, hash: 'sha256:26c5cc7f3ad117a8722784ef88216973543e6eb84f78db660a18c361bee73504'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5h0034_001-HFL.markers.yaml, hash: 'sha256:b2fde22982eb977fcf15926931116e98c4597ac28f8b669bcc0f21fa82f4ac4e'}
+  - {seq: 2, role: markers, filename: assets/KR5h0034_002-HFL.markers.yaml, hash: 'sha256:ecf7added60824ba02695705b67b1ceccbd744a6ca72a9ad078a1c8c8623388c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5h0034_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 8545
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5h0034_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 12759
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:fafd8442d3d8f7e84ef00c0ff99eac95ce65c31f986aacdcfcffd35892e2a6e0

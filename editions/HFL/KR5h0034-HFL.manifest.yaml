@@ -24,10 +24,10 @@ entity_encoding:
 assets:
   parts:
   - {seq: 0, filename: KR5h0034_000-HFL.yaml, hash: 'sha256:a6c972e5448b5548871289138e6b63ea4eb90a1015006805786e4042a49eb361'}
-  - {seq: 1, filename: KR5h0034_001-HFL.yaml, hash: 'sha256:214a3a19f27a6c2751be00b3f99792e0c0c5cde25037fba18be9f8b1cc12c13b'}
+  - {seq: 1, filename: KR5h0034_001-HFL.yaml, hash: 'sha256:809aaf0d8d483766ca32405d608e186b72a813b4a13d0548bc76c467bdf3b1f2'}
   - {seq: 2, filename: KR5h0034_002-HFL.yaml, hash: 'sha256:26c5cc7f3ad117a8722784ef88216973543e6eb84f78db660a18c361bee73504'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR5h0034_001-HFL.markers.yaml, hash: 'sha256:b2fde22982eb977fcf15926931116e98c4597ac28f8b669bcc0f21fa82f4ac4e'}
+  - {seq: 1, role: markers, filename: assets/KR5h0034_001-HFL.markers.yaml, hash: 'sha256:46c09119c2cfb7caf2e262b3e287625444e88e1eb2e67d8d480c42147ba76200'}
   - {seq: 2, role: markers, filename: assets/KR5h0034_002-HFL.markers.yaml, hash: 'sha256:c262cf1d89881a8008f654e0bec8be7fe014a2172220a3759af3cec76646b089'}
 table_of_contents:
 - ref:
@@ -35,8 +35,8 @@ table_of_contents:
     marker_id: KR5h0034_HFL_001-001a
     span:
     - body
-    - 0
-    - 8545
+    - 272
+    - 8817
   label: juan 001
   type: section
   level: 1
@@ -50,4 +50,4 @@ table_of_contents:
   label: juan 002
   type: section
   level: 1
-hash: sha256:13f4351e13167501e483d2669e5b8ce7b3c8c13cd5095a8b7fac7dc0c11f8b1c
+hash: sha256:c963224dcc672ad1493e1ba8fa6b9ea0c4923dbb85bd0234e1e468bb6e985e0f
